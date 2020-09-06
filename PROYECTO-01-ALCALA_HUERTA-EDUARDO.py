@@ -1446,9 +1446,9 @@ def main():
     
 def login():
     #default user
-    user = "1"
+    user = "eduardoalcala"
     #dafault password
-    password = "1"
+    password = "admin"
     print("Enter user: ")
     user_input = input()
     print("Enter password: ")
